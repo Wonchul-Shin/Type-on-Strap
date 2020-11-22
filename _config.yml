@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl:
-url: "wonchul-shin.github.io"
+url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Wonchul's Project                                   # site's title
